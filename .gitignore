@@ -1,2 +1,5 @@
 #twitterのアクセストークンなど
 twitkey.py
+
+#python実行ファイル
+*.pyc
